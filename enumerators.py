@@ -57,11 +57,11 @@ def enum():
   # Enumerator Practice #3
   # Print to the screen only the indices of those names in the list below, that start with M:
   
-  list_names = ["Maverick", "Alice", "Madeline", "Hazel", "Jack", "Meadow", "Thomas", "Emily", "Mills"]
-  for i,name in enumerate(list_names):
-    if name[0] == "M":
-      print(name)
-      print(i)
+  # list_names = ["Maverick", "Alice", "Madeline", "Hazel", "Jack", "Meadow", "Thomas", "Emily", "Mills"]
+  # for i,name in enumerate(list_names):
+  #   if name[0] == "M":
+  #     print(name)
+  #     print(i)
   
   # You can solve it in different ways, but it will help you keeping mind some (if not all) the following elements:
   
