@@ -40,14 +40,14 @@ def ranges():
   
   # Range Practice #3
   # Use the range() function and a loop to add the squares of all the numbers from 1 to 15 (inclusive). Store the result in a variable called sum_squares.    
-  import math
-  sum_squares = 0
-  for i in range(250):
-    sum_squares = sum_squares + i**2
-  print(sum_squares)
+  # import math
+  # sum_squares = 0
+  # for i in range(250):
+  #   sum_squares = sum_squares + i**2
+  # print(sum_squares)
 
-  for i in range(20,291):
-    print(i)
+  # for i in range(20,291):
+  #   print(i)
   
   # For this purpose:
   
