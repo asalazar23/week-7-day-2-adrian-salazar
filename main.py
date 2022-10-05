@@ -13,17 +13,17 @@
 # from decision_making import decisions
 # from comparison_operators import comparison
 # from dictionaries_loops import dictionaries_loops
-from random import random
-from loops import loop
-from ranges import range
-from enumerators import enum
-from zip import zip
-from min_max import min_max
+# from random import random
+# from loops import loop
+from ranges import ranges
+# from enumerators import enum
+# from zip import zip
+# from min_max import min_max
 # decisions()
 # comparison()
-loop()
-random()
-range()
-enum()
+# loop()
+# random()
+ranges()
+# enum()
 # zip()
-min_max()
+# min_max()
