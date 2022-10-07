@@ -4,19 +4,24 @@ def min_max():
   # Quickly check the minimum or maximum of a list with these functions.
   
   # mylist = [10,20,30,40,100]
-  # min(mylist)
-  # 10
-  # max(mylist)
-  # 100
+  # mylist2 = list(range(20, 38))
+  # print(min(mylist))
+  # # 10
+  # print(max(mylist))
+  # # 100
+  # # zip mylist and mylist2
+  # print(list(zip(mylist, mylist2)))
   
   #################################################min/max######################################
   
   # Min & Max Practice #1
   # Get the maximum value among the values in the following list, and store it in a variable named maximum_value:
   
-  # number_list = [44542247/2, 21310/5, 2134747*33, 44556475, 121676, 6654067, 353254, 123134, 55**12, 611**5]
+  number_list = [44542247/2, 21310/5, 2134747*33, 44556475, 121676, 6654067, 353254, 123134, 55**12, 611**5]
   
-  
+  maximum_value = max(number_list)
+
+  print(maximum_value)
   
   
   # Min & Max Practice #2
